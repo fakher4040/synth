@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SignWaveTest\Program.cs">
+    <Files>
+      <File FileName="SignWaveTest\Program.cs" Line="97" Column="97" />
+      <File FileName="SignWaveTest\Occilators.cs" Line="4" Column="4" />
+      <File FileName="SignWaveTest\IOccilator.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

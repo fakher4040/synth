@@ -1,0 +1,4 @@
+C:\Users\Joshua\Desktop\SignWaveTest\SignWaveTest\bin\Debug\SignWaveTest.exe
+C:\Users\Joshua\Desktop\SignWaveTest\SignWaveTest\bin\Debug\SignWaveTest.pdb
+C:\Users\Joshua\Desktop\SignWaveTest\SignWaveTest\obj\Debug\SignWaveTest.exe
+C:\Users\Joshua\Desktop\SignWaveTest\SignWaveTest\obj\Debug\SignWaveTest.pdb

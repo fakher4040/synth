@@ -1,0 +1,4 @@
+D:\Projects\Projects\Synthesizer\Synthesizer\bin\Debug\Synthesizer.exe
+D:\Projects\Projects\Synthesizer\Synthesizer\bin\Debug\Synthesizer.pdb
+D:\Projects\Projects\Synthesizer\Synthesizer\obj\x86\Debug\Synthesizer.exe
+D:\Projects\Projects\Synthesizer\Synthesizer\obj\x86\Debug\Synthesizer.pdb

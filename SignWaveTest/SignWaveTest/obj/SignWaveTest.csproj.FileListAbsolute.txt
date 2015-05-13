@@ -1,0 +1,5 @@
+C:\projects\2011\SignWaveTest\SignWaveTest\SignWaveTest\bin\Debug\SignWaveTest.exe
+C:\projects\2011\SignWaveTest\SignWaveTest\SignWaveTest\bin\Debug\SignWaveTest.pdb
+C:\projects\2011\SignWaveTest\SignWaveTest\SignWaveTest\obj\Debug\ResolveAssemblyReference.cache
+C:\projects\2011\SignWaveTest\SignWaveTest\SignWaveTest\obj\Debug\SignWaveTest.exe
+C:\projects\2011\SignWaveTest\SignWaveTest\SignWaveTest\obj\Debug\SignWaveTest.pdb

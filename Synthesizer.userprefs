@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Synthesizer\MainClass.cs">
+    <Files>
+      <File FileName="Synthesizer\MainClass.cs" Line="5" Column="5" />
+      <File FileName="Synthesizer\NoteFrequency.cs" Line="1" Column="1" />
+      <File FileName="Synthesizer\ReadNotes.cs" Line="1" Column="1" />
+      <File FileName="d:\Projects\Projects\Synthesizer\Synthesizer\SaveStream.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
